@@ -1,0 +1,33 @@
+End User License Agreement (EULA) for Voly
+
+Copyright (c) 2025 Evan Goddard
+
+This End User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and Evan Goddard ("Licensor") for the use of the software product titled "Voly" ("Software").
+
+By downloading, installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement.
+
+1. GRANT OF LICENSE
+Licensor grants you a limited, non-exclusive, non-transferable license to install and use the Software for personal or internal business purposes only.
+
+2. RESTRICTIONS
+You may NOT:
+- Modify, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software.
+- Copy, distribute, sublicense, rent, lease, or publicly display the Software.
+- Use the Software for any commercial purpose without explicit written permission from the Licensor.
+- Remove or obscure any proprietary notices, labels, or marks from the Software.
+
+3. OWNERSHIP
+The Software is licensed, not sold. All title, ownership rights, and intellectual property rights in and to the Software are and shall remain the property of the Licensor.
+
+4. NO WARRANTY
+The Software is provided "AS IS" without warranty of any kind. Licensor disclaims all warranties, either express or implied, including but not limited to warranties of merchantability and fitness for a particular purpose.
+
+5. LIMITATION OF LIABILITY
+In no event shall the Licensor be liable for any damages arising out of the use or inability to use the Software, even if the Licensor has been advised of the possibility of such damages.
+
+6. TERMINATION
+This Agreement is effective until terminated. It will terminate automatically without notice if you fail to comply with any provision of this Agreement. Upon termination, you must destroy all copies of the Software.
+
+---
+
+For inquiries, contact: volyapp1@gmail.com

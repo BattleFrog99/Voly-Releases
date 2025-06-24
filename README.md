@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [Important Info](#important-info)
+    - [Download Instructions](#download-instructions)
     - [Requirements](#requirements)
     - [Other](#other)
 
@@ -18,23 +19,22 @@
 
 # Important Info
 
-[Download the latest release!](https://github.com/BattleFrog99/Voly-Releases/releases)
+## Download Instructions
 
-Please utilize the [Issues](https://github.com/BattleFrog99/Voly-Releases/issues) tab for bug reports, or email [volyapp1@gmail.com](mailto:volyapp1@gmail.com) for help and support.
+- **Portable**: Download the "**VolyApp-win-Portable.zip**" file and extract it anywhere
+- **Installer**: Download and run the "**VolyApp-win-Setup.exe**" file, this will place Voly into the "..\AppData\Local\" folder
 
-This application is proprietary software. See [LICENSE](LICENSE.txt) for details. Do not redistribute or modify without permission.
-
-<br/>
-
+[Go to the latest release!](https://github.com/BattleFrog99/Voly-Releases/releases)
 
 ## Requirements
 
 Windows, version 10.0.17763.0 or higher
 
-<br/>
-
-
 ## Other
+
+Please utilize the [Issues](https://github.com/BattleFrog99/Voly-Releases/issues) tab for bug reports, or email [volyapp1@gmail.com](mailto:volyapp1@gmail.com) for help and support.
+
+This application is proprietary software. See [LICENSE](LICENSE.txt) for details. Do not redistribute or modify without permission.
 
 I'm currently looking for a new job, so if this application peaks your interest, please view my [Portfolio](https://evan-goddard.github.io/eg-portfolio/) and get in contact with me for any opportunities, thanks!
 
@@ -49,19 +49,23 @@ Voly allows the user to easily control the Windows Volume Mixer and gives seamle
 - **Volume Manager**: The container for Volume Editors
 - **Volume Editor**: The control used for changing volumes
 - **Audio Objects**: Anything that can be dragged onto a Volume Editor and be edited by Voly
+    - _Examples: Applications, Output Devices, Input Devices, Custom Voly Audio Objects_
 - **Active Border**: Surrounds the 'active' Volume Editors, these active Volume Editors determine which Audio Object will be edited by hotkeys
     - _When applicable, hotkeys have a field to denote which of the Volume Editors in the active border will be edited by the hotkey_
 
 ## Features
 
 - **Audio Control**
-    - Seamlessly change the volume levels of any application, output device, and input device (audio objects)
+    - Seamlessly change the volume levels of any application, output device, and input device
     - Custom Voly Audio Objects
-        - Audio Groups: link together volumes of audio objects
-        - Fullscreen Application(s): control the volume of any fullscreen application
+        - **Audio Groups**: link together volumes of audio objects
+        - **Fullscreen Application(s)**: control the volume of any fullscreen application
 
 - **Hotkeys**
     - Customizable system-wide hotkeys, this means that hotkeys can be used even when the application is minimized
+
+- **Auto Updating**
+    - New versions of Voly can be automatically downloaded and installed
 
 <br/>
 

@@ -1,9 +1,9 @@
 # Table of Contents
 
 - [Important Info](#important-info)
- - [Download Instructions](#download-instructions)
- - [Requirements](#requirements)
- - [Other](#other)
+	- [Download Instructions](#download-instructions)
+	- [Requirements](#requirements)
+	- [Other](#other)
 
 - [Voly](#voly)
  - [Terminology](#terminology)

@@ -1,18 +1,18 @@
 # Table of Contents
 
 - [Important Info](#important-info)
-    - [Download Instructions](#download-instructions)
-    - [Requirements](#requirements)
-    - [Other](#other)
+ - [Download Instructions](#download-instructions)
+ - [Requirements](#requirements)
+ - [Other](#other)
 
 - [Voly](#voly)
-    - [Terminology](#terminology)
-    - [Features](#features)
+ - [Terminology](#terminology)
+ - [Features](#features)
 
 - [Potential Additions](#potential-additions)
 
 - [Credits](#credits)
-    - [Used Packages](#used-packages)
+ - [Used Packages](#used-packages)
 
 <br/>
 
@@ -47,25 +47,28 @@ Voly allows the user to easily control the Windows Volume Mixer and gives seamle
 
 ## Terminology
 - **Volume Manager**: The container for Volume Editors
+
 - **Volume Editor**: The control used for changing volumes
+
 - **Audio Objects**: Anything that can be dragged onto a Volume Editor and be edited by Voly
-    - _Examples: Applications, Output Devices, Input Devices, Custom Voly Audio Objects_
+ - _Examples: Applications, Output Devices, Input Devices, Custom Voly Audio Objects_
+
 - **Active Border**: Surrounds the 'active' Volume Editors, these active Volume Editors determine which Audio Object will be edited by hotkeys
-    - _When applicable, hotkeys have a field to denote which of the Volume Editors in the active border will be edited by the hotkey_
+ - _When applicable, hotkeys have a field to denote which of the Volume Editors in the active border will be edited by the hotkey_
 
 ## Features
 
 - **Audio Control**
-    - Seamlessly change the volume levels of any application, output device, and input device
-    - Custom Voly Audio Objects
-        - **Audio Groups**: link together volumes of audio objects
-        - **Fullscreen Application(s)**: control the volume of any fullscreen application
+ - Seamlessly change the volume levels of any application, output device, and input device
+ - Custom Voly Audio Objects
+  - **Audio Groups**: link together volumes of audio objects
+  - **Fullscreen Application(s)**: control the volume of any fullscreen application
 
 - **Hotkeys**
-    - Customizable system-wide hotkeys, this means that hotkeys can be used even when the application is minimized
+ - Customizable system-wide hotkeys, this means that hotkeys can be used even when the application is minimized
 
 - **Auto Updating**
-    - New versions of Voly can be automatically downloaded and installed
+ - New versions of Voly can be automatically downloaded and installed
 
 <br/>
 

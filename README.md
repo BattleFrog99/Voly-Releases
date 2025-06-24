@@ -1,10 +1,10 @@
 # Important Info
 
-[Download the latest release!](https://github.com/BattleFrog99/Voly/releases)
+[Download the latest release!](https://github.com/BattleFrog99/Voly-Releases/releases)
 
 View a more thorough summary of this application at my [portfolio](https://evan-goddard.github.io/eg-portfolio/): [Voly Page](https://evan-goddard.github.io/eg-portfolio/Voly)
 
-This application is proprietary software. See [LICENSE](https://github.com/BattleFrog99/Voly_Source/blob/master/LICENSE.txt) for details. Do not redistribute or modify without permission.
+This application is proprietary software. See [LICENSE](LICENSE.txt) for details. Do not redistribute or modify without permission.
 
 
 # Voly

@@ -45,6 +45,8 @@ I'm currently looking for a new job, so if this application peaks your interest,
 
 Voly allows the user to easily control the Windows Volume Mixer and gives seamless control to the volume of any application, output device, and input device. Voly is a Windows desktop application created using Windows Presentation Foundation (WPF) and [Prism](https://github.com/PrismLibrary/Prism).
 
+![Initial_Gif](Readme Resources/github_initial.gif)
+
 ## Terminology
 - **Volume Manager**: The container for Volume Editors
 

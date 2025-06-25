@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [Important Info](#important-info)
+	- [Disclaimer](#disclaimer)
 	- [Download Instructions](#download-instructions)
 	- [Requirements](#requirements)
 	- [Other](#other)
@@ -18,6 +19,10 @@
 
 
 # Important Info
+
+## Disclaimer
+
+Voly does **not** currently have a **Code Signing Certificate** yet! If you do not trust Voly, please feel free to reach out at [volyapp1@gmail.com](mailto:volyapp1@gmail.com).
 
 ## Download Instructions
 
@@ -37,6 +42,8 @@ Please utilize the [Issues](https://github.com/BattleFrog99/Voly-Releases/issues
 This application is proprietary software. See [LICENSE](LICENSE.txt) for details. Do not redistribute or modify without permission.
 
 I'm currently looking for a new job, so if this application peaks your interest, please view my [Portfolio](https://evan-goddard.github.io/eg-portfolio/) and get in contact with me for any opportunities, thanks!
+
+_Buy me a coffee and help support future development of Voly here: [https://paypal.me/EvanGoddardVoly](https://paypal.me/EvanGoddardVoly)_
 
 <br/>
 
@@ -71,6 +78,9 @@ Voly allows the user to easily control the Windows Volume Mixer and gives seamle
 
 - **Auto Updating**
 	- New versions of Voly can be automatically downloaded and installed
+
+- **User Color Schemes**
+	- The colors within Voly are fully customizable and can be edited without having to close and reopen the application
 
 <br/>
 

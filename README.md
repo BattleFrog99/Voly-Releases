@@ -61,8 +61,8 @@ Voly allows the user to easily control the Windows Volume Mixer and gives seamle
 - **Audio Control**
 	- Seamlessly change the volume levels of any application, output device, and input device
 	- Custom Voly Audio Objects
-	- **Audio Groups**: link together volumes of audio objects
-	- **Fullscreen Application(s)**: control the volume of any fullscreen application
+		- **Audio Groups**: link together volumes of audio objects
+		- **Fullscreen Application(s)**: control the volume of any fullscreen application
 
 - **Hotkeys**
 	- Customizable system-wide hotkeys, this means that hotkeys can be used even when the application is minimized
@@ -74,6 +74,8 @@ Voly allows the user to easily control the Windows Volume Mixer and gives seamle
 
 
 # Potential Additions
+
+Suggest new ideas on the [Discussion](https://github.com/BattleFrog99/Voly-Releases/discussions) tab of this repo!
 
 - Allowing user to replace audio object icons with custom images
 - Create animations on button icons when hovering

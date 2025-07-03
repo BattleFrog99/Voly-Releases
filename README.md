@@ -12,8 +12,11 @@
 
 - [Potential Additions](#potential-additions)
 
+- [Special Thanks](#special-thanks)
+
 - [Credits](#credits)
 	- [Used Packages](#used-packages)
+	
 
 <br/>
 
@@ -93,6 +96,11 @@ Suggest new ideas on the [Discussion](https://github.com/BattleFrog99/Voly-Relea
 - Create animations on button icons when hovering
 
 <br/>
+
+
+# Special Thanks
+
+- [MajorGeeks.com](https://www.majorgeeks.com/): Thank you so much for creating a [page for Voly](https://www.majorgeeks.com/files/details/voly.html)! They did an amazing job describing the app, go check them out!
 
 
 # Credits

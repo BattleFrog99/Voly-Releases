@@ -42,7 +42,7 @@ Windows, version 10.0.17763.0 or higher
 
 Please utilize the [Issues](https://github.com/BattleFrog99/Voly-Releases/issues) tab for bug reports, or email [volyapp1@gmail.com](mailto:volyapp1@gmail.com) for help and support.
 
-This application is proprietary software. See [LICENSE](LICENSE.txt) for details. Do not redistribute or modify without permission.
+This application is proprietary software. Redistribution is permitted without prior permission, provided that proper attribution is given to the original author. See [LICENSE](LICENSE.txt) for full terms.
 
 I'm currently looking for a new job, so if this application peaks your interest, please view my [Portfolio](https://evan-goddard.github.io/eg-portfolio/) and get in contact with me for any opportunities, thanks!
 
